@@ -1,2 +1,5 @@
-# assuite
-ASSuite is an advanced staff suite for your Garry's Mod Server . 
+# Advanced Staff Mod
+Advanced Staff Mod est un système d'administration complet pour vvotre serveur Garry's Mod !
+Compatible avec tous les gamemodes , Advanced Staff Mod est l'un des meilleurs
+
+
