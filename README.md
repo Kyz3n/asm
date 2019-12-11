@@ -5,7 +5,7 @@ Il est l'un des meilleurs, il est compatible avec tous les serveurs ayant ULX & 
 ## Discord Support
 [Juste Ici](https://discord.gg/mRm4fuS)
 
-### Installation
+## Installation
 
 1 . Cliquer sur Clone or download > Download ZIP  
 2 . Ouvrir asm-master.zip puis extraire le dossier asm-master  
