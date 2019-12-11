@@ -1,5 +1,6 @@
 # Advanced Staff Mod
-Advanced Staff Mod est un système d'administration complet pour vvotre serveur Garry's Mod !
-Compatible avec tous les gamemodes , Advanced Staff Mod est l'un des meilleurs
+Advanced Staff Mod est un système d'administration complet basé sur le jeu Garry's Mod, crée par KYZΣП le 11/12/2019, 
+Il est l'un des meilleurs, il est compatible avec tous les serveurs ayant ULX & ULIB installé !
 
-
+## Discord Support
+[Juste Ici]()
