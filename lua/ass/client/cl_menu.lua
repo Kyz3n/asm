@@ -10,7 +10,7 @@ for i=1, 100 do
 end
 
 ASSuite = ASSuite or {}
-ASSuite.Version = "BETA 1.0"
+ASSuite.Version = "1.0.0"
 
 net.Receive("ASS:Net:OpenMenu", function() 
 
