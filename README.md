@@ -3,4 +3,4 @@ Advanced Staff Mod est un système d'administration complet basé sur le jeu Gar
 Il est l'un des meilleurs, il est compatible avec tous les serveurs ayant ULX & ULIB installé !
 
 ## Discord Support
-[Juste Ici]()
+[Juste Ici](https://discord.gg/mRm4fuS)
