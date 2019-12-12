@@ -14,3 +14,6 @@ Il est l'un des meilleurs, il est compatible avec tous les serveurs ayant ULX & 
 5. Effectuer le même processus que asm-master pour GNLib  
 6 . Relancer votre serveur   
 ! Advanced Staff Mod est installé !  
+
+## Bugs rencontrés sur ASM
+Il est fort probable que vous rencontriez beaucoup de bugs, rassurez-vous , c'est tout à fait normal , il en est qu'à sa version 0.0.1 , rejoignez [ce discord](https://discord.gg/mRm4fuS) afin de nous faire part de vos bugs
