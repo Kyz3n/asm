@@ -10,8 +10,8 @@ Il est l'un des meilleurs, il est compatible avec tous les serveurs ayant ULX & 
 1 . Cliquer sur Clone or download > Download ZIP  
 2 . Ouvrir asm-master.zip puis extraire le dossier asm-master  
 3 . Glisser le dossier asm-master dans le dossier addons de votre serveur  
-4 . Se rendre sur [GNLib](https://github.com/Nogitsu/GNLib/)  
-5. Effectuer le même processus que asm-master pour GNLib  
+4 . Se rendre sur [ce lien](https://www.mediafire.com/file/e8chbktyj9r407r/gnlib.zip/file)  
+5. Extraire le fichier gnlib puis le déplacer dans addons
 6 . Relancer votre serveur   
 ! Advanced Staff Mod est installé !  
 
